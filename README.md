@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abdul Muhaymien Salaam
-- 👀 I’m interested in everything involving problem-solving with the goal of becoming a successful Developer.
-- 🌱 I’m currently learning Python and React. In addition, I am currently working on a Full Stack project.
+- 👀 I’m interested in everything involving problem-solving with the goal of becoming a successful and creative Developer.
+- 🌱 I’m currently learning Java and a bit of Python for a Data Science course I am in the process of completing. In addition, I am currently working on a Full Stack project.
 - 💞️ I’m looking to collaborate on any projects wherein I will gain invaluable experience and knowledge with the aim of advancing my career as a Developer..
 - 📫 You can reach me via email, at: muhaymien96@gmail.com. ALternatively, you can contact me at 066 253 8342.
 
